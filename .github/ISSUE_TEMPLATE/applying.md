@@ -24,3 +24,7 @@ We think that working is this company is a separate job. -->
 
 **What's your GitHub username[^2]?**
 [@EutimioChidubem]
+
+[^1]: When we say perfect, we mean like at least a large knowledge of the programming language.
+
+[^2]: We use this to make sure yoy don't copy from another person issue.
